@@ -1,6 +1,6 @@
-# 👩‍💻 Zahra Fattahi's GitHub Profile
+# 👩‍💻 Hi There!
 
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Header](https://zahra77fth.github.io/zahra-fattahi/header.png)
 
 ## 🌟 About Me
 
