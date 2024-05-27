@@ -1,6 +1,6 @@
 # 👩‍💻 Hi There!
 
-![Header]![download](https://github.com/zahra77fth/zahra77fth/assets/40117603/3c4dea6c-6246-4fca-868b-2b1957809688)
+![Header](https://github.com/zahra77fth/zahra77fth/assets/40117603/3c4dea6c-6246-4fca-868b-2b1957809688)
 
 
 ## 🌟 About Me
